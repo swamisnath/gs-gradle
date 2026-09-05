@@ -1,6 +1,6 @@
 #!/bin/sh
 cd $(dirname $0)
-
+#This is swami.
 cd ../complete
 ./gradlew build
 ret=$?
